@@ -37,7 +37,7 @@ O propósito desta aplicação é meramente educacional apenas com o intuito de 
 
     ```sh
     Executar o comando:
-    docker run -p 3000:3000 krauzzer/api-node-docker:1.0
+    docker run -d -p 3000:3000 krauzzer/api-node-docker:1.0
 
 3. **Acessar link**
 
